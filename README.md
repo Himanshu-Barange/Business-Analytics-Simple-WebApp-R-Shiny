@@ -1,6 +1,8 @@
 # Business-Analytics-Simple-WebApp-R-Shiny
 R Shiny webapp. Takes a csv, xlsx, xlsm files and give basic summaries and plots.
 
+**URL**: https://himanshub.shinyapps.io/business_analytics_app_r_script/
+
 **Structure**
 1. Home
    - head view
